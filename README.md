@@ -1,6 +1,6 @@
 # Virtual Server Monitoring and Performance Optimization
 
-<img width="1371" height="394" alt="image" src="https://github.com/user-attachments/assets/d940eb8d-7adc-4b3d-bfe1-143da07bf3ad" />
+<img width="1249" height="541" alt="image" src="https://github.com/user-attachments/assets/fc9107b6-1d96-4ac7-b46f-e30de9f1c627" />
 
 
 
